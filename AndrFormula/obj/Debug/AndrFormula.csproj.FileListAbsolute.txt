@@ -1,0 +1,10 @@
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\bin\Debug\AndrFormula.exe.config
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\bin\Debug\AndrFormula.exe
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\bin\Debug\AndrFormula.pdb
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\obj\Debug\AndrFormula.csprojAssemblyReference.cache
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\obj\Debug\AndrFormula.Form1.resources
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\obj\Debug\AndrFormula.Properties.Resources.resources
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\obj\Debug\AndrFormula.csproj.GenerateResource.cache
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\obj\Debug\AndrFormula.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\obj\Debug\AndrFormula.exe
+C:\Users\Matvey\Desktop\AndrFormula\AndrFormula\obj\Debug\AndrFormula.pdb
